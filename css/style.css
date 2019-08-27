@@ -1010,3 +1010,6 @@ footer {
 
 .wizard > .content > .body label.error {
   font-size: 15px; }
+
+.mapa iframe{width:100%;}
+.iframe{border:0;}
